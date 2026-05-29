@@ -186,8 +186,6 @@ Giảng viên hướng dẫn: ThS. Lê Thị Thùy Trang
 
 Học phần: FIT4012 - Nhập môn An toàn bảo mật thông tin
 
-Ngày: 2026-04-28
-
 📚 Tham khảo
 OWASP - Password Storage Cheat Sheet
 
